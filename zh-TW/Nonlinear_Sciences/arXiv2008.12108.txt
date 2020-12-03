@@ -1,0 +1,2 @@
+'Nonlinear_Sciences/arXiv2008.12108.txt:test' => '測試關鍵詞',
+'Nonlinear_Sciences/arXiv2008.12108.txt:title' => '整數和分數階經濟系統中的隱吸引子和自激吸引子',
